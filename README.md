@@ -1,5 +1,7 @@
 # Business_Insights_360
 
+Link To Interactive Dashboard :https://app.powerbi.com/view?r=eyJrIjoiMmJkODcxMjEtYzk3NS00MmM2LTlmMmItMDYwNTc0ZDIwOThhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
 # Company Overview
 
 AtliQ Hardware is a rapidly growing consumer goods electronics company. This company is currently facing challenges in it's Data Analytics Practices. This company has historically relied on Excel Files for Data Analysis, which have proven an ineffective way in generating insights and lead to signifact loss in Latin America Market. So to overcome these types of problem they decided to onboard a Data Analytics team and assign them a 360 Degree project to know company's 360 Degrees.
