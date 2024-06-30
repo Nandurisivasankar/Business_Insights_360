@@ -42,22 +42,38 @@ As the database is MySQL in this project, we need to import the datasets from My
 
 # Power BI Techniques
 1.Creating Calculated Columns
+
 2.Creating Measures using DAX
+
 3.Data Modelling-Star Schema, Snowflake Schema
+
 4.Using Book Marks to switch between visuals
+
 5.Using Tooltips.
+
 6.Page Navigation Buttons
+
 7.Creating Date Table using M language
+
 8.Creating Dynamic Titles and Many More
 
 # Business Related Terms
 1.Gross Price
+
 2.COGS
+
 3.YTD
+
 4.YTG
+
 5.Pre-Invoice Deductions
+
 6.Post-Invoice Deductions
+
 7.Net Sales
+
 8.Net Profit
+
 9.Net Invoice Sales
+
 10.Gross Margin
