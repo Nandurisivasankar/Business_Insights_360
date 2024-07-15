@@ -1,6 +1,6 @@
 # Business_Insights_360
 
-Link To Interactive Dashboard :https://app.powerbi.com/view?r=eyJrIjoiMmJkODcxMjEtYzk3NS00MmM2LTlmMmItMDYwNTc0ZDIwOThhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+Link To Interactive Dashboard : [**Interactive Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiMmJkODcxMjEtYzk3NS00MmM2LTlmMmItMDYwNTc0ZDIwOThhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 # Company Overview
 
